@@ -9,17 +9,20 @@
 */
  
 function stipple_menu() {
-  $items['admin/settings/stipple'] = array(
+  $items['admin/stipple/configure'] = array(
     'title' => 'Stipple',
     'defaultion' => 'Configure the settings used to install Stipple on your site.',
     'page callback' => 'drupal_get_form',
     'page arguments' => array('stipple_admin_settings_form'),
     'access arguments' => array('access administration pages'),
-    'type' => MENU_NORMAL_ITEM,
+    'type' => MENU_LOCAL_TASK,
   );
  
   return $items;
 }
+
+
+
  
 function stipple_admin_settings_form(&$form_state) { 
   $form['stipple_id'] = array(
@@ -29,7 +32,7 @@ function stipple_admin_settings_form(&$form_state) {
     '#size' => 20,
     '#maxlength' => 100,
     '#required' => TRUE,
-    '#description' => t('Your Site ID. Check your <a href="@url">dashboard</a> if you need to find this.', array('@url' => 'http://www.stipple.com/dashboard')),
+    '#description' => t('Your Site ID. Check your <a href="@url">dashboard</a> if you need to find this.', array('@url' => 'http://stippleit.com/dashboard')),
   );
   
   return system_settings_form($form);
