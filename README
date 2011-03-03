@@ -6,17 +6,17 @@ Easiest flow for adding additional information to
 
 ## Installation Instructions
 
-1. Sign up at [Stippleit.com](http://stippleit.com/signup)
+1. Sign up at [Stippleit.com](http://stippleit.com/signup).
 
-2. On your [Stipple Dashboard](http://stippleit.com/dashboard) create a new site and note the Site ID
+2. On your [Stipple Dashboard](http://stippleit.com/dashboard) create a new site and note the Site ID.
 
-3. [Download](http://drupal.org/sandbox/sumitngupta/1079216) the Stipple Module
+3. [Download](http://drupal.org/sandbox/sumitngupta/1079216) the Stipple Module.
 
 4. Upload the module to your Drupal installation in the "./sites/all/modules/".
 
-5. Go to your Administration Page on your site and click "Modules"
+5. Go to your Administration Page on your site and click "Modules".
 
-6. Click the checkbox next to Stipple in the "Other" category and then "Configure"
+6. Click the checkbox next to Stipple in the "Other" category and then "Configure".
 
 7. Insert your Site ID that you noted in step 2, click Save and begin Stippling!
 
