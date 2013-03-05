@@ -22,7 +22,7 @@ Easiest flow for adding additional information to
 
 
 ## Author
-Plugin is written by [Sumit Gupta][sumitngupta] for Stipple, Inc.
+Plugin is written by [Sumit Gupta](http://github.com/sumitngupta) for Stipple, Inc.
 
 ## License
 Copyright (c) 2011 Stipple, Inc
