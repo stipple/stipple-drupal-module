@@ -6,9 +6,9 @@ Easiest flow for adding additional information to
 
 ## Installation Instructions
 
-1. Sign up at [Stippleit.com](http://stippleit.com/signup).
+1. Sign up at [Stipple.com](http://stippleit.com/signup).
 
-2. On your [Stipple Dashboard](http://stippleit.com/dashboard) create a new site and note the Site ID.
+2. While logged in, Go to [Stipple Sites Dashboard](https://stipple.com/a#sites) create a new site and note the Site ID.
 
 3. [Download](http://drupal.org/sandbox/sumitngupta/1079216) the Stipple Module.
 
