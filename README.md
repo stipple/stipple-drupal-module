@@ -2,7 +2,7 @@
 Enables Stipple image tagging functionality inside Drupal. 
 
 ## Stipple benefits
-Easiest flow for adding additional information to 
+Easiest flow for adding additional information to your images. 
 
 ## Installation Instructions
 
